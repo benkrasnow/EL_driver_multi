@@ -264,7 +264,7 @@ void TCC1_Handler()
     {
       if (fade_step < pixelvalues[i])
         {                       //I use srvalue[i>>2] because there are four pair of EL outputs per byte of shift register so we divide pixels (ie pairs) by four, which is the same as right-shift 2
-          srvalue[(i>>2)] ^= (SR_TOGGLE_MASK << (i<<1));  //The exclusive OR will toggle the pair of pins, giving a flash of light from the EL.  i<<1 because we are moving through the register by pairs.
+          srvalue[(i>>2)] ^= (SR_TOGGLE_MASK << ((i%4)<<1));  //The exclusive OR will toggle the pair of pins, giving a flash of light from the EL.  i<<1 because we are moving through the register by pairs.
         }
      }
 
