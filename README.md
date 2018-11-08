@@ -10,3 +10,4 @@ Driving EL matrix displays is not straightforward because scanning the matrix wi
 
 Video of my talk at Hackaday Supercon 2018, starting at the EL driver section:   https://youtu.be/Tx2B5hI4w1U?t=1473
 
+<img src="https://cdn.hackaday.io/images/4878161541658312551.png">
