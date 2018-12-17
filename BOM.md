@@ -2,7 +2,7 @@ Bill of Materials
 ---
 |ID|Part Number|Description|Qty.|
 |---|---|---|---|
-|**HV Charge Ciruit**|
+|**HV Charge Circuit**|
 |TR1, TR2|ATB3225|Step-Up Transformer|2|
 |U2, U6|LT3468| Photoflash Charger|2|
 |D1, D2|B0540W|0.5A SURFACE MOUNT SCHOTTKY BARRIER RECTIFIER|2|
