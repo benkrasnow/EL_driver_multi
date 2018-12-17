@@ -16,7 +16,7 @@ Bill of Materials
 |U1|HV513|8-Channel Low voltage serial to high voltage parallel IC|1|
 | | |*OR*| |
 |U9|HV507|64-Channel Low voltage serial to high voltage parallel IC|1|
-|**LV Control Circuit**|
+|**LV Control Circuit**| |*All Components possibly from Tinket-M0*|
 |U?|ATSAMD21E|Trinket M0 CPU|1|
 |U3|AP2204K-3.3|3.3V Voltage regulator|1|
 |U4|AP2204K-5.0|5.0V Voltage regulator|1|
