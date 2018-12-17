@@ -31,5 +31,8 @@ Bill of Materials
 
 Digikey Cart
 ---
-Parts excluding 0603 caps and resistors, and microcontroller stuff https://www.digikey.com/short/pc8p74
-(The mininum quantity is doubled, except for the HV513.)
+*Parts excluding 0603 caps and resistors, and microcontroller stuff:*
+- Double quantity except for HV513 https://www.digikey.com/short/pc8p74
+- Single quantity https://www.digikey.com/short/pc8p89
+
+
