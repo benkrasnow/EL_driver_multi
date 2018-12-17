@@ -5,7 +5,7 @@ Bill of Materials
 |**HV Charge Circuit**|
 |TR1, TR2|ATB3225|Step-Up Transformer|2|
 |U2, U6|LT3468| Photoflash Charger|2|
-|D1, D2|B0540W|0.5A SURFACE MOUNT SCHOTTKY BARRIER RECTIFIER|2|
+|D1, D2|B0540W|0.5A SOD123 SCHOTTKY BARRIER RECTIFIER|2|
 |D3, D4|MMBD5004S|HIGH VOLTAGE DUAL SWITCHING DIODE|2|
 |C4|-|2.2μF 2220 (5650) SMD Capacitor|1|
 |C5, C9|-|6.3μF 0603 SMD Capacitor|2|
@@ -28,3 +28,8 @@ Bill of Materials
 |PWR1|-|Green Bright 0603 SMD LED|1|
 |Q2|-|Tactile Switch SMT4.6X2.8|1|
 |CN1|-|Micro USB Female|1|
+
+Digikey Cart
+---
+Parts excluding 0603 caps and resistors, and microcontroller stuff https://www.digikey.com/short/pc8p74
+(The mininum quantity is doubled, except for the HV513.)
