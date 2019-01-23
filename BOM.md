@@ -7,7 +7,7 @@ Bill of Materials
 |U2, U6|LT3468| Photoflash Charger|2|
 |D1, D2|B0540W|0.5A SOD123 SCHOTTKY BARRIER RECTIFIER|2|
 |D3, D4|MMBD5004S|HIGH VOLTAGE DUAL SWITCHING DIODE|2|
-|C4|-|2.2μF 2220 (5650) SMD Capacitor|1|
+|C4|-|2.2μF 2220 (5750) SMD Capacitor|1|
 |C5, C9|-|6.3μF 0603 SMD Capacitor|2|
 |C6|-|100pF 0603 SMD Capacitor|1|
 |R2|-|10MOhm 0603 SMD Resistor|1|
@@ -32,7 +32,7 @@ Bill of Materials
 Digikey Cart
 ---
 *Parts excluding 0603 caps and resistors, and microcontroller stuff:*
-- Double quantity except for HV513 https://www.digikey.com/short/pc8p74
+- Double quantity except for HV507 https://www.digikey.com/short/pc8p74
 - Single quantity https://www.digikey.com/short/pc8p89
 
 
